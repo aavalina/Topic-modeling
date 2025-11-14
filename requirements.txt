@@ -1,0 +1,9 @@
+nltk==3.9.1
+scikit-learn==1.5.2
+pandas==2.2.2
+numpy==1.26.4
+pyspellchecker==0.8.1
+pymorphy2==0.9.1
+sumy==0.11.0
+typing==3.7.4.3
+bertopic==0.16.4
